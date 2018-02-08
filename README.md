@@ -12,7 +12,6 @@ Cart page displays all the line items or items in the cart which the user has ad
 
 <p align="center">
   <a href="https://angularspree.firebaseapp.com/" target="_blank">
-    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="">
   </a>
 </p>
 
@@ -22,7 +21,6 @@ Display's the detailed product information of a particular product.
 
 <p align="center">
   <a href="https://angularspree.firebaseapp.com/" target="_blank">
-    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="">
   </a>
 </p>
 
