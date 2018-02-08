@@ -3,8 +3,7 @@ On this page user can filter products as per category. Change layout of the prod
 
 <p align="center">
   <a href="https://angularspree.firebaseapp.com/" target="_blank">
-    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="http://res.cloudinary.com/yatrum/image/upload/c_limit,h_1041,w_1487/v1490188458/screen_home.png">
-  </a>
+   </a>
 </p>
 
 ### Cart Page
@@ -13,7 +12,7 @@ Cart page displays all the line items or items in the cart which the user has ad
 
 <p align="center">
   <a href="https://angularspree.firebaseapp.com/" target="_blank">
-    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="http://res.cloudinary.com/yatrum/image/upload/c_limit,h_1041,w_1487/v1490188642/screen_cart.png">
+    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="">
   </a>
 </p>
 
@@ -23,7 +22,7 @@ Display's the detailed product information of a particular product.
 
 <p align="center">
   <a href="https://angularspree.firebaseapp.com/" target="_blank">
-    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="http://res.cloudinary.com/yatrum/image/upload/c_limit,h_1041,w_1487/v1490188748/screen_product_page.png">
+    <img alt="AngualreSpree Logo" title="AngularSpree Logo" width="80%" src="">
   </a>
 </p>
 
